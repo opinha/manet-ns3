@@ -3,7 +3,7 @@
 Trabalho final de Redes Móveis, Engenharia de Software, IFG Câmpus Inhumas, 2026/2.
 Prof. Rogério Sousa e Silva.
 
-**Grupo:** PREENCHER (2 ou 3 integrantes: nome completo e e-mail de cada um)
+**Grupo:** Gabriel Braga, Dante de Souza, Thays Marques e Luis Hernandez Penariol
 
 Este repositório contém tudo o que é necessário para reproduzir o experimento do artigo:
 o código da simulação, o script que roda o lote, os dados brutos de todas as execuções,
